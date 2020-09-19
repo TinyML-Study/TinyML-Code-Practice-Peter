@@ -1,9 +1,7 @@
 
 ## Ch.9. Person Detection :running:
 
-<br>
-
-##   The Basic Flow :surfer:
+###   The Basic Flow :surfer:
 
 <center>
 <img src="../img/person_detection_2.png" width="600">
