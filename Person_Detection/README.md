@@ -1,12 +1,14 @@
 
-# TinyML 
 ## Ch.9. Person Detection :running:
 
 <br>
 
 ##   The Basic Flow :surfer:
 
-<img src="../img/person_detection_2.png">
+<center>
+<img src="../img/person_detection_2.png" width="600">
+</center>
+
 
 #### Sequences
 1. **`Image Provider`**'s **GetImage()** takes a picture from the camera. &rightarrow;
