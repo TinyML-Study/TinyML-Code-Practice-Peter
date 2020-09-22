@@ -1,5 +1,5 @@
 
-## Ch.9. Person Detection :running:
+## Ch.9, 10. Person Detection :running:
 
 ###   The Basic Flow :surfer:
 
