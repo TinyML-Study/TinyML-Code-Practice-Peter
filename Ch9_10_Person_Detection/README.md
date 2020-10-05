@@ -51,17 +51,30 @@
 
 * After connecting, run the `person_detection` Arduino_TensorFlowLite example at Arduino IDE!
 
+
 ### :sparkles: Results 
 
-* #### No person is detected :point_right: Red Light
+* <center><table>
+<tr>
+<th> No one is detected.</th>
+<th> A person is detected.</th>
+</tr>
+<tr>
+<td>
 <center>
 <img src="../img/person_detection_3.jpeg" width="400">
 </center>
-
-* #### A person is detected :point_right: Green Light
+</td>
+<td>
 <center>
 <img src="../img/person_detection_4.jpeg" width="400">
 </center>
+</td>
+</tr>
+</table>
+</center>
+
+
 
 
 
