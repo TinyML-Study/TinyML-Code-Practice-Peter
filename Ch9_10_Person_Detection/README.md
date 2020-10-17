@@ -54,10 +54,10 @@
 
 ### :sparkles: Results 
 
-* <center><table>
+<center><table>
 <tr>
-<th> No one is detected.</th>
-<th> A person is detected.</th>
+<th> No one is detected.(Red)</th>
+<th> A person is detected.(Green)</th>
 </tr>
 <tr>
 <td>
@@ -69,6 +69,27 @@
 <center>
 <img src="../img/person_detection_4.jpeg" width="400">
 </center>
+</td>
+</tr>
+<tr>
+<td> 
+  
+  **At IDE Prompt**
+  
+  ```bash
+  
+  
+  ```
+</td>
+<td>
+  
+  **At IDE Prompt**
+  
+  ```bash
+  
+  
+  ```
+  
 </td>
 </tr>
 </table>
